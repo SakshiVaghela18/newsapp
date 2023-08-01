@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 69,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Futures: GOP To Retake House; Elon Musk Sells More TSLA - Investor's Business Daily",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiiQFodHRwczovL3d3dy5pbnZlc3RvcnMuY29tL21hcmtldC10cmVuZC9zdG9jay1tYXJrZXQtdG9kYXkvZG93LWpvbmVzLWZ1dHVyZXMtZ29wLXdpbnMtaG91c2UtbWlkdGVybS1lbGVjdGlvbnMtZWxvbi1tdXNrLXNlbGxzLXRlc2xhLXN0b2NrL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-11-09T12:26:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Diana Olick",
+            "title": "Weekly mortgage demand flattens, as interest rates climb higher to 7.14% - CNBC",
+            "description": "Rising mortgage rates caused mortgage demand to stall last week.",
+            "url": "https://www.cnbc.com/2022/11/09/weekly-mortgage-demand-flattens-as-interest-rates-climb-even-higher.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/102628824-IMG_5677.jpg?v=1667995201&w=1920&h=1080",
+            "publishedAt": "2022-11-09T12:00:01Z",
+            "content": "Mortgage rates rose again last week, throwing even more cold water on demand from both current homeowners and potential homebuyers. Weekly application volume fell 0.1% last week from the previous wee… [+1625 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jonathan Vanian",
+            "title": "Meta laying off more than 11,000 employees: Read Zuckerberg's letter announcing the cuts - CNBC",
+            "description": "Meta is laying off 13% of its staff, or more than 11,000 employees, CEO Mark Zuckerberg told employees on Wednesday.",
+            "url": "https://www.cnbc.com/2022/11/09/meta-to-lay-off-more-than-11000-thousand-employees.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106967423-16354576832021-10-28t214510z_116189434_rc29jq9owmq8_rtrmadp_0_facebook-connect.jpeg?v=1667992105&w=1920&h=1080",
+            "publishedAt": "2022-11-09T11:08:25Z",
+            "content": "Meta is laying off 13% of its staff, or more than 11,000 employees, CEO Mark Zuckerberg said in a letter to employees Wednesday.\r\n\"Today I'm sharing some of the most difficult changes we've made in M… [+9657 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Shaurya Malwa",
+            "title": "Crypto Exchanges Scramble to Compile 'Proof-of-Reserves' as FTX Contagion Grips Markets - CoinDesk",
+            "description": "Over seven crypto exchanges will publish proof of their reserve holdings in the next month.",
+            "url": "https://www.coindesk.com/business/2022/11/09/crypto-exchanges-scramble-to-compile-proof-of-reserves-as-ftx-contagion-grips-markets/",
+            "urlToImage": "https://www.coindesk.com/resizer/nWUkm8V_ve7FZVPrTQFvePp_EQ4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/NXCZYKDV5ZGVBB65IDWMEJ77XQ.jpg",
+            "publishedAt": "2022-11-09T09:32:00Z",
+            "content": "Crypto exchanges are now scrambling to publicly publish their fund reserves as insolvency fears grapple crypto investors following contagion risks from liquidity issues at FTX.\r\nIn the past 24 hours,… [+2405 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Elliot Smith",
+            "title": "Adidas warns of big earnings hit after ending Ye partnership - CNBC",
+            "description": "Adidas on Wednesday cut its full-year guidance on the back of the German sportswear giant's termination of its partnership with Kanye West's Yeezy brand.",
+            "url": "https://www.cnbc.com/2022/11/09/adidas-warns-of-big-earnings-hit-after-ending-ye-partnership.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/103849207-GettyImages-543531002.jpg?v=1667980576&w=1920&h=1080",
+            "publishedAt": "2022-11-09T07:56:16Z",
+            "content": "Adidas on Wednesday cut its full-year guidance on the back of the German sportswear giant's termination of its partnership with Kanye West's Yeezy brand.\r\nThe company ended its relationship with Ye, … [+2266 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Anmar Frangoul",
+            "title": "Autos giant Renault is betting the market for gasoline cars will continue to grow - CNBC",
+            "description": "Thierry Pieton's comments came during an interview with CNBC in Paris.",
+            "url": "https://www.cnbc.com/2022/11/09/renault-is-betting-the-market-for-gasoline-cars-will-continue-to-grow.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107148007-1667922918877-gettyimages-1235163050-20090101210910-99-171102.jpeg?v=1667975125&w=1920&h=1080",
+            "publishedAt": "2022-11-09T06:25:25Z",
+            "content": "Renault sees the internal combustion engine continuing to play a crucial role in its business over the coming years, according to a top executive at the French automotive giant.  \r\nOn Tuesday, it was… [+3674 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "Felix Ng",
+            "title": "Marathon is now the 2nd-largest listed holder of Bitcoin, says CEO - Cointelegraph",
+            "description": "Marathon Digital CEO Fred Thiel says the company holds 11,300 Bitcoin (BTC), making it the second largest holder of Bitcoin among listed companies.",
+            "url": "https://cointelegraph.com/news/marathon-is-now-the-2nd-largest-listed-holder-of-bitcoin-says-ceo",
+            "urlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMTEvMDAwMTJmOGUtNDlkZS00Y2E2LTgyNGItMTZjMzQzNTk3Zjg3LmpwZw==.jpg",
+            "publishedAt": "2022-11-09T03:58:05Z",
+            "content": "Bitcoin (BTC) mining company Marathon Digital Holdings is now understood to be the second-largest holder of Bitcoin in the world among publicly-listed companies.\r\nDuring the companys third-quarter ea… [+3557 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Josh Taylor",
+            "title": "Elon Musk sells Tesla shares worth $4bn - The Guardian",
+            "description": "Musk said he was done selling Tesla stock back in August, before Twitter’s legal action sealed the deal for the $44bn takeover",
+            "url": "https://www.theguardian.com/technology/2022/nov/09/elon-musk-sells-tesla-shares-worth-4bn",
+            "urlToImage": "https://i.guim.co.uk/img/media/55fdb0c6440e37bb05a97537b58814d154d98c92/0_109_3142_1885/master/3142.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d0d4dd73aaa03c0e5c25d30d9695801d",
+            "publishedAt": "2022-11-09T03:50:00Z",
+            "content": "Tesla CEO Elon Musk has sold 19.5 million of his shares in the electric car company, according to filings published by the US Securities and Exchange Commission on Tuesday, in a transaction worth $3.… [+1989 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ambcrypto.com"
+            },
+            "author": "Suzuki Shillsalot",
+            "title": "These Solana metrics could give SOL investors a few sleepless nights because… - AMBCrypto News",
+            "description": "Solana Daily, a popular Twitter handle that posts about updates about the Solana [SOL] ecosystem, recently uploaded Solana’s latest weekly report. The report mentioned all the major developments on the network over the past week, including Solana’s integratio…",
+            "url": "https://ambcrypto.com/these-solana-metrics-could-give-sol-investors-a-few-sleepless-nights-because/",
+            "urlToImage": "https://ambcrypto.com/wp-content/uploads/2022/11/guerrillabuzz-blockchain-pr-agency-5_asf_AsG-I-unsplash-1-1000x600.jpg",
+            "publishedAt": "2022-11-09T02:32:42Z",
+            "content": "Solana Daily, a popular Twitter handle that posts about updates about theSolana [SOL] ecosystem, recently uploaded Solanas latest weekly report. The report mentioned all the major developments on the… [+2672 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Gloria Li, Primrose Riordan, Chan Ho-him, Qianer Liu",
+            "title": "'There was no hope': the Chinese factories struggling to survive - Financial Times",
+            "description": "Manufacturers have been left reeling from lockdowns, global inflation and waning appetite for products",
+            "url": "https://www.ft.com/content/acb7e15f-6243-4ba7-9d49-5ac2b1afe1f9",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F63f618ee-5e71-4c65-b955-ab3489fa8b6e.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2022-11-09T01:32:08Z",
+            "content": "Jimmy sat on the dusty floor of his Guangdong mill chasing down the money he was still owed. His workers had been paid off, the machinery sold and even the office furniture removed after he shut the … [+4815 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Jon Swartz, , Jeremy C. Owens",
+            "title": "Disney stock dives after earnings and revenue miss, sales growth forecast to slow after record year - MarketWatch",
+            "description": "Disney finishes fiscal year with biggest sales total in history and strongest sales growth since 1996, but CFO predicts revenue will grow by less than 10% in the new year while reporting weaker fourth quarter profit and revenue than expected",
+            "url": "https://www.marketwatch.com/story/disney-posts-wide-earnings-and-sales-miss-to-wrap-up-record-year-stock-falls-6-11667942471",
+            "urlToImage": "https://images.mktw.net/im-604180/social",
+            "publishedAt": "2022-11-09T01:10:00Z",
+            "content": "Walt Disney Co. wrapped up its fiscal year with record sales and its best revenue growth in more than 25 years, but executives predicted much slower sales increases in the year ahead while missing ex… [+5259 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Jill Goldsmith",
+            "title": "AMC Entertainment CEO Says Theaters Have One Problem And It’s Not Covid, Streamers Or Windows: “We Need More Movies” – Update - Deadline",
+            "description": "UPDATED with conference call comments: AMC Entertainment CEO Adam Aron shrugged off Covid, streamers and windows as real issues for exhibition currently, saying the biggest challenge facing the industry “above all else, is that movie theater operators need mo…",
+            "url": "https://deadline.com/2022/11/amc-entertainment-earnings-box-office-1235166938/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2020/08/amc-theatres.jpg?w=1024",
+            "publishedAt": "2022-11-09T00:41:00Z",
+            "content": "UPDATED with conference call comments: AMC Entertainment CEO Adam Aron shrugged off Covid, streamers and windows as real issues for exhibition currently, saying the biggest challenge facing the indus… [+4005 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Jim Cramer says these 10 'old guard' stocks are making a comeback - CNBC Television",
+            "description": "Cramer offered investors a list of stocks he believes they should be eyeing.",
+            "url": "https://www.youtube.com/watch?v=gxn-X4Ikx4M",
+            "urlToImage": "https://i.ytimg.com/vi/gxn-X4Ikx4M/maxresdefault.jpg",
+            "publishedAt": "2022-11-09T00:38:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Krystal Hur",
+            "title": "Jim Cramer says to ‘hope for the best, prepare for the worst’ ahead of October CPI report - CNBC",
+            "description": "The October CPI reading could give clues on whether the Federal Reserve will adjust the pace of interest rate hikes next month.",
+            "url": "https://www.cnbc.com/2022/11/08/jim-cramer-says-to-hope-for-the-best-prepare-for-the-worst-ahead-of-october-cpi-report.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107109967-1661524568032-NUP_198430_00186r.jpg?v=1667953363&w=1920&h=1080",
+            "publishedAt": "2022-11-09T00:22:00Z",
+            "content": "CNBC's Jim Cramer on Tuesday gave investors his expectations for October's consumer price index report.\r\n\"Maybe this time will be different, and it could be. But right now when it comes to the CPI, I… [+1197 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Jalopnik"
+            },
+            "author": "Lawrence Hodge",
+            "title": "Online Car Retailers Are Struggling; Vroom Reports $50 Million Loss This Quarter - Jalopnik",
+            "description": "Vroom's losses are not nearly as large as Carvana’s in the third quarter, but losing millions of dollars isn't",
+            "url": "https://jalopnik.com/online-car-retailers-are-struggling-vroom-reports-50-1849759408",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5dfee0bed6511740a1cf2a4eef390d66.png",
+            "publishedAt": "2022-11-09T00:00:00Z",
+            "content": "After riding the high of a constrained auto market that drove people to purchase used vehicles, or sell their used cars at an insane profit, the bottom has fallen out, and online retailers are gettin… [+1450 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Amanda Silberling",
+            "title": "Twitter will add an ‘official’ badge to high-profile accounts in lieu of verification - TechCrunch",
+            "description": "Twitter initially planned to roll out its new system, in which anyone can buy themselves a blue check, on Monday.",
+            "url": "https://techcrunch.com/2022/11/08/twitter-will-add-an-official-badge-to-high-profile-accounts-in-lieu-of-verification/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/07/twitter-verified-scatter1.png?resize=1200,675",
+            "publishedAt": "2022-11-08T23:11:50Z",
+            "content": "Twitter is turning the famous blue check mark into a symbol that denotes you’ve paid Elon Musk $8, rather than one that identifies public figures. But of course, if anyone with a spare $8 and a fragi… [+2469 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Minneapolis Star Tribune"
+            },
+            "author": "Evan Ramstad",
+            "title": "BMO ordered to pay $563M in Petters fraud; it's largest financial penalty by a Minnesota jury - Star Tribune",
+            "description": "The award represents the largest single amount recovered for people who were hurt in Minnesota's worst business fraud.",
+            "url": "https://www.startribune.com/bmo-ordered-to-pay-563m-in-petters-fraud-in-largest-financial-penalty-by-a-minnesota-jury/600223416/",
+            "urlToImage": "https://chorus.stimg.co/22751642/merlin_37748729.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
+            "publishedAt": "2022-11-08T23:08:20Z",
+            "content": "BMO Financial Group must pay the bankruptcy trustees of Tom Petters $563.7 million in damages for the role a predecessor bank played in the multibillion-dollar fraud by the Minnesota businessman, a f… [+3835 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Antuan Goodwin",
+            "title": "2023 Audi Q8 E-Tron Debut: New Name, More Range - CNET",
+            "description": "The new naming convention is less confusing, but we're more excited about the bigger battery and Audi’s target of 300 miles of range.",
+            "url": "https://www.cnet.com/roadshow/news/2023-audi-q8-e-tron-debut-new-name-more-range/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/7fe16927d9ce64619c7bf5e6ca05501a629893b6/hub/2022/11/07/12c518b0-c50f-481d-9f54-7188913b3aa6/ogi-audi-sq8-e-tron-quattro-2023-014-large.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2022-11-08T23:01:02Z",
+            "content": "It's been about three years since Audi's original dedicated electric vehicle, the E-Tron SUV, first hit the road. That's almost an eternity in car tech time, which means it's time for an update. The … [+7433 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Breck Dumas",
+            "title": "Tyson CFO issues apology following arrest, saying he is 'embarrassed' - Fox Business",
+            "description": "Tyson CFO John R. Tyson issued a company-wide apology Monday following his arrest for allegedly falling asleep in a stranger's home while intoxicated.",
+            "url": "https://www.foxbusiness.com/markets/tyson-cfo-issues-apology-following-arrest-embarrassed",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/11/0/0/john-tyson.jpg?ve=1&tl=1",
+            "publishedAt": "2022-11-08T22:39:44Z",
+            "content": "Tyson Foods chief financial officer John R. Tyson has apologized for his behavior following his arrest over the weekend, saying in a company-wide email that he is \"embarrassed\" over the incident.\r\nJo… [+1973 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Sean O'Kane",
+            "title": "Lucid Falls After Maker of Luxury EVs Misses Profit Estimates - Yahoo Finance",
+            "description": "(Bloomberg) -- Lucid Group Inc. shares fell in late trading after third-quarter sales and earnings trailed estimates and reservations declined for the...",
+            "url": "https://finance.yahoo.com/news/lucid-falls-maker-luxury-evs-213127986.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/POog876UPBiWUKtMCYkCDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/56f4a3ab87a6c768be00a98c50196372",
+            "publishedAt": "2022-11-08T22:30:08Z",
+            "content": "(Bloomberg) -- Lucid Group Inc. shares fell in late trading after third-quarter sales and earnings trailed estimates and reservations declined for the companys luxury electric vehicles.\r\nMost Read fr… [+1459 chars]"
+        }
+    ]
+}
